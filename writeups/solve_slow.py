@@ -6,6 +6,9 @@ magic_numbers = [
     3638358163634682436,
 ]
 
+shift = 7203796438858066709
+assert shift % 256 == 21
+
 ciphertext = bytearray()
 for q in magic_numbers:
     ciphertext.extend(q.to_bytes(8, byteorder='little'))

@@ -1,5 +1,3 @@
-# credit: ChatGPT
-
 hash_val = 56951
 B = 31
 min_digit = 33

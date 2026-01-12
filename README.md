@@ -1,5 +1,10 @@
-# aphsCTF writeups
+# aphsCTF
 
-Writeups for 2025 APHS CTF.
+Challenges:
 
-3 of the tasks are particularly challenging/long so they have their dedicated writeups with accompanying solve scripts. The others are contained in `writeups.md`
+- [Genie](https://github.com/nli33/genie)
+- [Slow](./slow/)
+- [Admin Panel](https://github.com/nli33/admin-panel)
+- etc. (see [writeups.md](./writeups/writeups.md))
+
+[Writeups](./writeups/)
